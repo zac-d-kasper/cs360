@@ -14,4 +14,7 @@ This Project is a simple EXT2 Shell Script that implements the following unix co
 - stat: prints in-depth stats of a given file
 - chmod: changes the access permissions of a given file with a given octal permission setting
 
-This code is intended to work on Unix architecture and must be compiled with a 32-bit compiler. It was written on a VM running Linux Mint and compiled with GCC. 
+This code is intended to work on Unix architecture and must be compiled with a 32-bit compiler. 
+It was written on a VM running Linux Mint and compiled with GCC. 
+"kasperdisk" was the EXT2 virtual disk that was used for this Shell Script and maintains changes 
+as the project is run. 
