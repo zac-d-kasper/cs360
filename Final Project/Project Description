@@ -1,0 +1,17 @@
+This is the Final Project description for CptS360 as of Fall 2017
+
+This Project is a simple EXT2 Shell Script that implements the following unix commands. 
+- ls: prints a list of all files in the current working directory 
+- cd: changes the current working directory to the given path
+- pwd: prints the pathname of the current working directory 
+- mkdir: creates a new directory in the current working directory 
+- creat: creates a new file in the current working directory 
+- rmdir: removes an empty directory in the current working directory 
+- link: creates a new file entry that links to the inode of another file
+- symlink: creates a symbolic link from one file or directory to another 
+- unlink: deallocates a given file and deletes its contents
+- touch: updates the timestamp of a given file or directory 
+- stat: prints in-depth stats of a given file
+- chmod: changes the access permissions of a given file with a given octal permission setting
+
+This code is intended to work on Unix architecture and must be compiled with a 32-bit compiler. It was written on a VM running Linux Mint and compiled with GCC. 
