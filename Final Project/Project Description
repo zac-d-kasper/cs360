@@ -1,6 +1,7 @@
 This is the Final Project description for CptS360 as of Fall 2017
 
-This Project is a simple EXT2 Shell Script that implements the following unix commands. 
+This Project is a simple EXT2 Shell Script that implements the following unix commands. This is the Level 1 set of implementation, below 
+Level 2 or 3 which included more unix commands that could be implemented for extra credit. 
 - ls: prints a list of all files in the current working directory 
 - cd: changes the current working directory to the given path
 - pwd: prints the pathname of the current working directory 
